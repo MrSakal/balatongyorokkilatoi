@@ -4,8 +4,17 @@ body{
     background-size: cover;
 }
 
-#fejlec{
-    
+#hatter{
+    width: 1000px;
+    margin: auto;
+}
+
+#header{
+    background-image: url("panorama.jpg");
+    background-size: cover;
+    background-position: center;
+    min-width: 650px;
+    max-width: 1000px;
 }
 
 #balra{
