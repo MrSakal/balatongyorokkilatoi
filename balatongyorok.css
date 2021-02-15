@@ -9,6 +9,11 @@ body{
     margin: auto;
 }
 
+h1{
+    padding-left: 15px;
+    float: left;
+}
+
 #header{
     background-image: url("panorama.jpg");
     background-size: cover;
@@ -17,10 +22,24 @@ body{
     max-width: 1000px;
 }
 
+img{
+    display: block;
+    padding: 20px;
+    width: 160px;
+    margin-left: auto;
+    border-radius: 30%;
+}
+
 #balra{
     float: left;
+    width: 450px;
+    background-color: #5b9cea;
+    padding: 22px;
 }
 
 #jobbra{
     float: right;
+    width: 450px;
+    background-color: #5b9cea;
+    padding: 22px;
 }
