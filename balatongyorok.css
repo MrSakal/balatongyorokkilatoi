@@ -43,3 +43,19 @@ img{
     background-color: #5b9cea;
     padding: 22px;
 }
+
+table{
+    border-collapse: collapse;
+    margin-bottom: 10px;
+}
+
+td{
+    background-color: #b0d1f1;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+#igazitas{
+    text-align: center;
+    font-weight: bold;
+}
